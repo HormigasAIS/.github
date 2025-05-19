@@ -1,29 +1,30 @@
-# HormigasAIS: Inteligencia colaborativa para un futuro automatizado y humano
+# HormigasAIS: Collaborative Intelligence for an Automated and Human Future 
 
-Bienvenidos al corazón digital de **HormigasAIS**, un ecosistema creativo donde la automatización, el análisis de datos, el SEO y la inteligencia artificial se conectan con personas inquietas que buscan hacer las cosas de forma más inteligente y accesible.
+Welcome to the digital heart of **HormigasAIS**, a creative ecosystem where automation, data analysis, SEO, and artificial intelligence connect with curious minds who seek to work smarter and more accessibly. 
 
-### ¿Qué somos?
+## Who We Are 
 
-Una raíz distribuida compuesta por:
-- **Desarrolladores** de herramientas inteligentes  
-- **Especialistas en SEO** y estrategias de crecimiento digital  
-- **Diseñadores de experiencias** centradas en el usuario  
-- **Exploradores de IA** que experimentan con nuevas formas de colaboración  
+We are a distributed root network composed of: 
 
-### ¿Qué hacemos?
+- **Developers** of intelligent tools  
+- **SEO specialists** and digital growth strategists  
+- **UX designers** focused on human-centered experiences  
+- **AI explorers** experimenting with new ways of collaboration  
 
-- Automatización de tareas repetitivas  
-- Proyectos open source de scraping, análisis de datos y herramientas SEO  
-- Integración de flujos con IA en marketing digital  
-- Contenidos educativos para una comunidad en constante evolución  
+## What We Do 
 
-### ¿Dónde encontrarnos?
+- Automate repetitive tasks  
+- Build open source tools for scraping, data analysis, and SEO  
+- Integrate AI-driven flows into digital marketing strategies  
+- Create educational content for an evolving tech-savvy community  
 
-- [LinkedIn oficial](https://www.linkedin.com/company/hormigasais/)  
-- [Repositorio HormigasAIS-UX](https://github.com/HormigasAIS-ux)  
-- [Nuestra historia en LinkedIn](https://www.linkedin.com/posts/hormigasais_hormigasais-linkedin-activity-7318525793901395969-5MmU)  
+## Where to Find Us 
 
----
+- [Official LinkedIn](https://www.linkedin.com/company/hormigasais/)  
+- [HormigasAIS-UX Repository](https://github.com/HormigasAIS-ux)  
+- [Our story on LinkedIn](https://www.linkedin.com/posts/hormigasais_hormigasais-linkedin-activity-7318525793901395969-5MmU) 
 
-> Como las hormigas, creemos en el trabajo constante, invisible pero poderoso.  
-> **Somos pequeños logrando cosas gigantes.**
+Like ants, we believe in constant, invisible, yet powerful work.  
+**We are small, achieving giant things.** 
+
+**We think you’ll like it here.**
