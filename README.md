@@ -1,5 +1,44 @@
-# HormigasAIS | Lab Kit (v1.0) **Bienvenido al laboratorio abierto de HormigasAIS** Este repositorio reúne herramientas, configuraciones y recursos esenciales desarrollados por HormigasAIS para fomentar el uso colaborativo de la inteligencia artificial, la automatización y el análisis digital. Inspirado en el trabajo comunitario y estrategias de código abierto, este kit es nuestra forma de compartir conocimiento con quienes buscan construir un futuro más automatizado y humano. --- ## Estructura del repositorio ``` /core -> Scripts esenciales, código base, librerías públicas /tools -> Automatizaciones, integraciones (Zapier, n8n, APIs) /config -> Plantillas JSON/YAML para flujos u orquestaciones /branding -> Recursos visuales (logos, iconos SVG, tipografía) /docs -> Manuales, tutoriales, flujos explicativos /tests -> Casos de prueba, ejemplos de ejecución LICENSE -> Licencia MIT para libre uso README.md -> Introducción y guía de uso CONTRIBUTING.md-> Pautas para aportar SECURITY.md -> Reporte de vulnerabilidades ``` --- ## Filosofía de HormigasAIS > "La inteligencia colaborativa es la raíz del progreso automatizado. Cada script, cada flujo, cada pixel: todo suma." > — Cristhiam Quiñonez | Fundador de HormigasAIS HormigasAIS cree en la descentralización del conocimiento, en el diseño con propósito y en la interoperabilidad de herramientas que hablen entre sí. Este kit es una invitación abierta a experimentar, contribuir y construir. --- ## ¿Para quién es este kit? - Profesionales en marketing digital con interés en IA y automatización - Equipos pequeños que buscan flujos de trabajo más inteligentes - Desarrolladores que quieren extender herramientas low-code - Investigadores de UX y comportamiento digital --- ## Próximos pasos - [ ] Subir primeros scripts y flujos de automatización - [ ] Documentar configuraciones de n8n y Airtable - [ ] Agregar branding vectorial y assets - [ ] Publicar guías y tutoriales en el blog oficial --- ## ¿Cómo colaborar? Consulta el archivo `CONTRIBUTING.md` para conocer cómo puedes aportar ideas, reportar errores o expandir el laboratorio. Queremos que este ecosistema crezca contigo. **HormigasAIS** *Inteligencia colaborativa para un futuro automatizado y humano.* 
+# 🐜 HormigasAIS: Infraestructura de Inteligencia Soberana
 
-## 📜 Licencia 
+> **"La Colonia no pide permiso para existir, exige respeto a su soberanía."**
+> — *Ing. Cristhiam Leonardo Hernández Quiñonez (CLHQ)*
 
-Este proyecto está licenciado bajo [Creative Commons Attribution-ShareAlike 4.0](https://github.com/Thrumanshow/semilla-de-cierre-/blob/main/MIT%20License%20).
+---
+
+## 🛡️ Declaración de Propósito (Manifiesto 2026)
+HormigasAIS es una organización dedicada al desarrollo de **Sistemas de Inteligencia Distribuida** basados en el principio de la "Colonia de Hormigas". Nuestra misión es proporcionar autonomía, resiliencia extrema y soberanía de datos en el **Edge Computing** (Computación de Borde).
+
+### 💎 Pilares de la Colonia:
+* **LBH (Lenguaje Binario HormigasAIS):** Protocolo de comunicación ligero y ultra-eficiente para agentes autónomos.
+* **Soberanía de Datos:** Implementación de búnkeres criptográficos (Nivel 3 - AES-256) en cada nodo.
+* **Resiliencia Geográfica:** Operación desde nodos estratégicos (San Miguel, El Salvador) con capacidad de respuesta autónoma ante intrusiones.
+* **Eficiencia Energética:** Inteligencia diseñada para hardware limitado y sistemas solares (HormigasAIS-LBH-EnergySolar).
+
+---
+
+## 🏗️ Arquitectura del Ecosistema
+La organización gestiona múltiples capas de tecnología coordinada:
+
+| Nodo / Módulo | Función | Estado |
+| :--- | :--- | :--- |
+| **LBH-Protocol** | El Núcleo de comunicación y reglas maestras. | **v1.3.0 (Active)** |
+| **XOXO-Adapter** | Puente de interoperabilidad con hardware externo. | **L3-Secured** |
+| **Video-Intelligence** | Visión soberana y detección de patrones en tiempo real. | **Operational** |
+| **Investment-Kit** | Documentación estratégica para el escalamiento semilla. | **Verified** |
+
+---
+
+## ⚖️ Gobernanza y Autoridad
+Todo el código y la propiedad intelectual contenida en esta organización está bajo el **Sello de Soberanía de HormigasAIS** y la autoridad técnica del Fundador:
+
+**Ing. Cristhiam Leonardo Hernández Quiñonez (CLHQ)** *Especialista en Protocolos Inteligentes y Desarrollador del LBH.*
+
+---
+
+### 📡 Estado de la Red: [ CONECTADO ]
+- **Localización Central:** San Miguel, El Salvador.
+- **Protocolo de Seguridad:** Nivel 3 (Blindaje Criptográfico Activo).
+- **Última Sincronización:** Marzo 2026.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+**[ FEROMONA_DE_BIENVENIDA_EMITIDA ]** *Explora los repositorios para entender la evolución de la inteligencia colectiva.*
