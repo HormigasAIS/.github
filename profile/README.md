@@ -1,45 +1,89 @@
-# HormigasAIS: Collaborative Intelligence for an Automated and Human Future
+# 🐜 HormigasAIS — Sovereign Protocol Network
 
-Welcome to the digital heart of **HormigasAIS**, a creative ecosystem where automation, data analysis, SEO, and artificial intelligence connect with curious minds who seek to work smarter and more accessibly.
+**LBH Protocol · P2P Swarm · Edge Computing · El Salvador 🇸🇻**
 
-## Who We Are
-
-We are a distributed root network composed of:
-
-- **Developers** of intelligent tools  
-- **SEO specialists** and digital growth strategists  
-- **UX designers** focused on human-centered experiences  
-- **AI explorers** experimenting with new ways of collaboration  
-
-## What We Do
-
-- Automate repetitive tasks  
-- Build open source tools for scraping, data analysis, and SEO  
-- Integrate AI-driven flows into digital marketing strategies  
-- Create educational content for an evolving tech-savvy community  
-
-## Where to Find Us
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/hormigasais/)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat-square&logo=youtube)](https://youtube.com/@cristhiamquinonez?si=M3A3p_V21k9inAm3)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=flat-square&logo=instagram)](https://www.instagram.com/chriswarriortv/profilecard/?igsh=NjdrZTlxcDVpY2tu)
-[![Facebook](https://img.shields.io/badge/Facebook-Page-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=61555858301306&mibextid=ZbWKwL)
-
-More links:
-
-- [HormigasAIS-UX Repository](https://github.com/HormigasAIS-ux)  
-- [Our story on LinkedIn](https://www.linkedin.com/posts/hormigasais_hormigasais-linkedin-activity-7318525793901395969-5MmU)
+> *"Like ants, we build distributed intelligence — sovereign, antifragile, without a central server."*
 
 ---
 
+## What is HormigasAIS?
 
-## 📜 Licencia 
+A sovereign distributed protocol ecosystem built from Termux on Android in El Salvador.
+No cloud dependency. No central server. Every node carries its own cryptographic identity.
 
-Este proyecto está licenciado bajo [Creative Commons Attribution-ShareAlike 4.0](https://github.com/Thrumanshow/semilla-de-cierre-/blob/main/MIT%20License%20).
+**Founder:** [Cristhiam Leonardo Hernández Quiñonez (CLHQ)](https://www.linkedin.com/in/cristhiam-lbh-architect/)
+**Protocol:** LBH v1.1 · DOI: [10.5281/zenodo.17767205](https://zenodo.org/records/17767205)
 
 ---
 
-Like ants, we believe in constant, invisible, yet powerful work.  
-**We are small, achieving giant things.**
+## ⚡ Key Metric
+JSON → LBH binary : 89.3% bandwidth reduction
+150 bytes         → 16 bytes per event
+1B events/day     → 139 GB saved daily
+---
 
-**We think you’ll like it here.**
+## 🗺️ Ecosystem
+
+| Repo | Description | Status |
+|---|---|---|
+| [LBH-Net](https://github.com/HormigasAIS/LBH-Net) | P2P swarm network · UDP autodiscovery · Ed25519 | v1.5.0 ✅ |
+| [lbh-node-service](https://github.com/HormigasAIS/lbh-node-service) | Go microservice · REST + gRPC · SQLite | v0.2.0 ✅ |
+| [HormigasAIS-AirCity](https://github.com/HormigasAIS/HormigasAIS-AirCity) | Airport UTM protocol · Drone authorization 🇸🇻 2027 | Active |
+| [HormigasAIS-LBH-Protocol](https://github.com/HormigasAIS/HormigasAIS-LBH-Protocol) | RFC-LBH-0001 → 0006 · DOI certified | Published ✅ |
+| [lbh-image-validator](https://github.com/HormigasAIS/lbh-image-validator) | IP validator · Ed25519 + SHA256 · Docker | v0.1.0 ✅ |
+| [LBH-Signals](https://github.com/HormigasAIS/LBH-Signals) | Git signal bus between nodes | Active ✅ |
+| [LBH-Nodes](https://github.com/HormigasAIS/LBH-Nodes) | Dynamic node registry | Active ✅ |
+
+---
+
+## 🏗️ Architecture
+LBH Protocol (RFC-LBH-0006)
+│
+LBH Queue (SQLite)
+│
+Worker Pipeline
+sign → verify → replicate
+│
+TCP Socket Server :9200
+│
+UDP Discovery :9199
+│
+Distributed Swarm Nodes
+**Philosophy:**
+hormigas    = nodos
+feromonas   = señales LBH
+colonia     = red distribuida
+evaporación = TTL de señales
+---
+
+## 🔐 Protocol Credentials
+
+- **RFC-LBH-0004** — Data Integrity (CRC-16 checksum)
+- **RFC-LBH-0006** — Signal Standard (HMAC-SHA256)
+- **DOI:** [10.5281/zenodo.17767205](https://zenodo.org/records/17767205)
+- **Built:** Entirely from Android/Termux — zero cloud dependency
+
+---
+
+## 🌐 E-commerce Adapter
+
+Real-time TikTok order processing using LBH binary protocol:
+→ [Thrumanshow/lbh-tiktok-adapter](https://github.com/Thrumanshow/lbh-tiktok-adapter)
+
+---
+
+## 👤 Founder
+
+| | |
+|---|---|
+| **Name** | Cristhiam Leonardo Hernández Quiñonez |
+| **Role** | Solution Architect · LBH Protocol Author |
+| **LinkedIn** | [cristhiam-lbh-architect](https://www.linkedin.com/in/cristhiam-lbh-architect/) |
+| **Portfolio** | [thrumanshow.github.io/hormigasais-site](https://thrumanshow.github.io/hormigasais-site/) |
+| **CV (EN)** | [cv_en.html](https://thrumanshow.github.io/lbh-tiktok-adapter/cv_en.html) |
+| **CV (ES)** | [cv_es.html](https://thrumanshow.github.io/lbh-tiktok-adapter/cv_es.html) |
+| **Location** | San Miguel, El Salvador 🇸🇻 |
+
+---
+
+*Built from Termux · Android · El Salvador 2026 · CLHQ / HormigasAIS*
