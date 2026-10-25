@@ -26,13 +26,12 @@ JSON → LBH binary : 89.3% bandwidth reduction
 
 | Repo | Description | Status |
 |---|---|---|
-| [LBH-Net](https://github.com/HormigasAIS/LBH-Net) | P2P swarm network · UDP autodiscovery · Ed25519 | v1.5.0 ✅ |
-| [lbh-node-service](https://github.com/HormigasAIS/lbh-node-service) | Go microservice · REST + gRPC · SQLite | v0.2.0 ✅ |
-| [HormigasAIS-AirCity](https://github.com/HormigasAIS/HormigasAIS-AirCity) | Airport UTM protocol · Drone authorization 🇸🇻 2027 | Active |
-| [HormigasAIS-LBH-Protocol](https://github.com/HormigasAIS/HormigasAIS-LBH-Protocol) | RFC-LBH-0001 → 0006 · DOI certified | Published ✅ |
-| [lbh-image-validator](https://github.com/HormigasAIS/lbh-image-validator) | IP validator · Ed25519 + SHA256 · Docker | v0.1.0 ✅ |
-| [LBH-Signals](https://github.com/HormigasAIS/LBH-Signals) | Git signal bus between nodes | Active ✅ |
-| [LBH-Nodes](https://github.com/HormigasAIS/LBH-Nodes) | Dynamic node registry | Active ✅ |
+| [lbh-spec](https://github.com/HormigasAIS/lbh-spec) | LBH protocol specification · DOI 10.5281/zenodo.17767205 | Published |
+| [hormigasais-docs](https://github.com/Thrumanshow/hormigasais-docs) | Official LBH protocol documentation | Active |
+| [lbh-node-service](https://github.com/HormigasAIS/lbh-node-service) | LBH microservice · REST + gRPC | Active |
+| [xoxo-lbh-adapter](https://github.com/HormigasAIS/xoxo-lbh-adapter) | XOXO ↔ LBH-M2M adapter for robots and IoT | Active |
+| [HormigasAIS-AirCity](https://github.com/HormigasAIS/HormigasAIS-AirCity) | Sovereign UTM authorization protocol 🇸🇻 | Active |
+| [HormigasAIS.github.io](https://github.com/HormigasAIS/HormigasAIS.github.io) | Official landing page | Active |
 
 ---
 
