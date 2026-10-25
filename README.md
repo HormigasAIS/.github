@@ -28,6 +28,14 @@ La organización gestiona múltiples capas de tecnología coordinada:
 
 ---
 
+## 📡 Official Channels
+
+- 🎬 [TikTok](https://vt.tiktok.com/ZSguyUV56/) · [YouTube](https://www.youtube.com/watch?v=lL48tb4mg1M) · [Instagram](https://www.instagram.com/reel/De3Fjl2xF6H/) · [Facebook](https://www.facebook.com/share/p/19T3vHMgUR/)
+- 🌐 [hormigasais.com](https://hormigasais.com) · [Medium](https://hormigasaiscristhiamquinonez.medium.com) · [X](https://x.com/hormigasaux)
+- 🗂️ Full directory: [Feromona Hub](https://github.com/HormigasAIS-ux/HormigasAIS-Feromona-Hub) · Anchor: [Issue #3](https://github.com/HormigasAIS/.-github/issues/3)
+
+---
+
 ## ⚖️ Gobernanza y Autoridad
 Todo el código y la propiedad intelectual contenida en esta organización está bajo el **Sello de Soberanía de HormigasAIS** y la autoridad técnica del Fundador:
 
