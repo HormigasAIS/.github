@@ -1,6 +1,6 @@
 # 🐜 HormigasAIS — Sovereign Protocol Network
 
-**LBH Protocol · P2P Swarm · Edge Computing · El Salvador 🇸🇻**
+**LBH Protocol · P2P Swarm · Edge Computing · El 🌎 Nicaragua 🇳🇮 El Salvador 🇸🇻**
 
 > *"Like ants, we build distributed intelligence — sovereign, antifragile, without a central server."*
 
