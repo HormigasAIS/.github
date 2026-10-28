@@ -94,7 +94,6 @@ evaporación = TTL de señales
 | **Role** | Solution Architect · LBH Protocol Author |
 | **LinkedIn** | [cristhiam-lbh-architect](https://www.linkedin.com/in/cristhiam-lbh-architect/) |
 | **Website** | [hormigasais.com](https://hormigasais.com) |
-| **CV (ATS)** | [CV_CLHQ_TECH_ATS_1PAGE.pdf](https://hormigasais.com/CV_CLHQ_TECH_ATS_1PAGE.pdf) |
 | **Location** | San Miguel, El Salvador 🇸🇻 |
 
 ---
