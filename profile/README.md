@@ -91,11 +91,12 @@ evaporación = TTL de señales
 | | |
 |---|---|
 | **Name** | Cristhiam Leonardo Hernández Quiñonez |
-| **Role** | Solution Architect · LBH Protocol Author |
-| **LinkedIn** | [cristhiam-lbh-architect](https://www.linkedin.com/in/cristhiam-lbh-architect/) |
+| **Role** | Chief Technology Officer & Edge Systems Architect |
+| **LinkedIn** | [HormigasAIS Soberain](https://www.linkedin.com/in/cristhiam-lbh-architect/) |
 | **Website** | [hormigasais.com](https://hormigasais.com) |
-| **Location** | San Miguel, El Salvador 🇸🇻 |
+| **CV** |[Versión TXT](https://raw.githubusercontent.com/HormigasAIS/HormigasAIS.github.io/main/CV_CLHQ_TECH_ATS_1PAGE.txt) |
+| **Location** | Edge Computing 🌎 • Nicaragua 🇳🇮 • San Miguel, El Salvador 🇸🇻 |
 
 ---
 
-*Built from Termux · Android · El Salvador 2026 · CLHQ / HormigasAIS*
+*Built from Termux · Android  Edge Computing • Nicaragua • El Salvador 2026 · CLHQ / HormigasAIS*
